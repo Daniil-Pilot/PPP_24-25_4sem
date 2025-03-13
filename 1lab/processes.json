@@ -1,0 +1,1114 @@
+[
+    {
+        "pid": "Idle",
+        "name": "System"
+    },
+    {
+        "pid": "4",
+        "name": "System"
+    },
+    {
+        "pid": "System",
+        "name": "Secure"
+    },
+    {
+        "pid": "160",
+        "name": "Registry"
+    },
+    {
+        "pid": "568",
+        "name": "smss.exe"
+    },
+    {
+        "pid": "796",
+        "name": "csrss.exe"
+    },
+    {
+        "pid": "896",
+        "name": "wininit.exe"
+    },
+    {
+        "pid": "972",
+        "name": "services.exe"
+    },
+    {
+        "pid": "992",
+        "name": "LsaIso.exe"
+    },
+    {
+        "pid": "1008",
+        "name": "lsass.exe"
+    },
+    {
+        "pid": "1060",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "1092",
+        "name": "fontdrvhost.exe"
+    },
+    {
+        "pid": "1144",
+        "name": "WUDFHost.exe"
+    },
+    {
+        "pid": "1228",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "1280",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "1356",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "1364",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "1404",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "1504",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "1512",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "1520",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "1632",
+        "name": "WUDFHost.exe"
+    },
+    {
+        "pid": "1660",
+        "name": "IntelCpHDCPSvc.exe"
+    },
+    {
+        "pid": "1668",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "1728",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "1736",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "1768",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "1500",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "2132",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "2304",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "2412",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "2448",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "2484",
+        "name": "WUDFHost.exe"
+    },
+    {
+        "pid": "2528",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "2536",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "2544",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "2576",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "Compression",
+        "name": "Memory"
+    },
+    {
+        "pid": "2736",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "2752",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "2852",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "2876",
+        "name": "igfxCUIServiceN.exe"
+    },
+    {
+        "pid": "2984",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "3012",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "3172",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "3220",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "3248",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "3356",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "3420",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "3444",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "3532",
+        "name": "spoolsv.exe"
+    },
+    {
+        "pid": "3640",
+        "name": "wlanext.exe"
+    },
+    {
+        "pid": "3656",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "3704",
+        "name": "conhost.exe"
+    },
+    {
+        "pid": "3712",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "3812",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "3936",
+        "name": "Intel_PIE_Service.exe"
+    },
+    {
+        "pid": "4008",
+        "name": "WUCSProxyService.exe"
+    },
+    {
+        "pid": "4128",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "4136",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "4144",
+        "name": "HwDistributedMainService."
+    },
+    {
+        "pid": "4156",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "4164",
+        "name": "OneApp.IGCC.WinService.ex"
+    },
+    {
+        "pid": "4172",
+        "name": "IntelAudioService.exe"
+    },
+    {
+        "pid": "4180",
+        "name": "BasicService.exe"
+    },
+    {
+        "pid": "4188",
+        "name": "HWVEAudioService.exe"
+    },
+    {
+        "pid": "4196",
+        "name": "osdservice.exe"
+    },
+    {
+        "pid": "4204",
+        "name": "HiConnectivityService.exe"
+    },
+    {
+        "pid": "4212",
+        "name": "MateBookService.exe"
+    },
+    {
+        "pid": "4228",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "4236",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "4244",
+        "name": "pg_ctl.exe"
+    },
+    {
+        "pid": "4252",
+        "name": "LCD_Service.exe"
+    },
+    {
+        "pid": "4264",
+        "name": "SessionService.exe"
+    },
+    {
+        "pid": "4288",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "4300",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "4308",
+        "name": "SenaryAudioApp.Svc.exe"
+    },
+    {
+        "pid": "4316",
+        "name": "mysqld.exe"
+    },
+    {
+        "pid": "4324",
+        "name": "LMS.exe"
+    },
+    {
+        "pid": "4332",
+        "name": "OfficeClickToRun.exe"
+    },
+    {
+        "pid": "4352",
+        "name": "esif_uf.exe"
+    },
+    {
+        "pid": "4468",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "4540",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "4548",
+        "name": "WMIRegistrationService.ex"
+    },
+    {
+        "pid": "4632",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "4888",
+        "name": "jhi_service.exe"
+    },
+    {
+        "pid": "5176",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "5296",
+        "name": "mysqld.exe"
+    },
+    {
+        "pid": "5396",
+        "name": "conhost.exe"
+    },
+    {
+        "pid": "6116",
+        "name": "postgres.exe"
+    },
+    {
+        "pid": "6132",
+        "name": "conhost.exe"
+    },
+    {
+        "pid": "5668",
+        "name": "WmiPrvSE.exe"
+    },
+    {
+        "pid": "5696",
+        "name": "unsecapp.exe"
+    },
+    {
+        "pid": "6344",
+        "name": "postgres.exe"
+    },
+    {
+        "pid": "6432",
+        "name": "postgres.exe"
+    },
+    {
+        "pid": "6440",
+        "name": "postgres.exe"
+    },
+    {
+        "pid": "6540",
+        "name": "postgres.exe"
+    },
+    {
+        "pid": "6548",
+        "name": "postgres.exe"
+    },
+    {
+        "pid": "6556",
+        "name": "postgres.exe"
+    },
+    {
+        "pid": "7104",
+        "name": "AggregatorHost.exe"
+    },
+    {
+        "pid": "6228",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "7292",
+        "name": "PresentationFontCache.exe"
+    },
+    {
+        "pid": "7492",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "8024",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "6568",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "8816",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "11520",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "11972",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "11980",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "8844",
+        "name": "SearchIndexer.exe"
+    },
+    {
+        "pid": "9652",
+        "name": "SecurityHealthService.exe"
+    },
+    {
+        "pid": "11464",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "10724",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "13416",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "14696",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "13796",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "448",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "14456",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "6812",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "12560",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "5152",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "4608",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "13904",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "5716",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "3740",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "1456",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "3376",
+        "name": "dasHost.exe"
+    },
+    {
+        "pid": "10880",
+        "name": "MpDefenderCoreService.exe"
+    },
+    {
+        "pid": "7436",
+        "name": "MsMpEng.exe"
+    },
+    {
+        "pid": "2192",
+        "name": "NisSrv.exe"
+    },
+    {
+        "pid": "19260",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "11932",
+        "name": "MoUsoCoreWorker.exe"
+    },
+    {
+        "pid": "1624",
+        "name": "pacjsworker.exe"
+    },
+    {
+        "pid": "4780",
+        "name": "pacjsworker.exe"
+    },
+    {
+        "pid": "8488",
+        "name": "pacjsworker.exe"
+    },
+    {
+        "pid": "16360",
+        "name": "csrss.exe"
+    },
+    {
+        "pid": "20384",
+        "name": "winlogon.exe"
+    },
+    {
+        "pid": "15560",
+        "name": "fontdrvhost.exe"
+    },
+    {
+        "pid": "3672",
+        "name": "dwm.exe"
+    },
+    {
+        "pid": "4600",
+        "name": "MBAMessageCenter.exe"
+    },
+    {
+        "pid": "9884",
+        "name": "HwMdcCenter.exe"
+    },
+    {
+        "pid": "2812",
+        "name": "unsecapp.exe"
+    },
+    {
+        "pid": "23684",
+        "name": "DFSSearchService.exe"
+    },
+    {
+        "pid": "18832",
+        "name": "sihost.exe"
+    },
+    {
+        "pid": "18172",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "8600",
+        "name": "igfxEMN.exe"
+    },
+    {
+        "pid": "6380",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "15268",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "7428",
+        "name": "taskhostw.exe"
+    },
+    {
+        "pid": "22560",
+        "name": "explorer.exe"
+    },
+    {
+        "pid": "20796",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "22764",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "15092",
+        "name": "LocationNotificationWindo"
+    },
+    {
+        "pid": "23932",
+        "name": "MessageCenterUI.exe"
+    },
+    {
+        "pid": "20584",
+        "name": "HwMdcUI.exe"
+    },
+    {
+        "pid": "23180",
+        "name": "SearchHost.exe"
+    },
+    {
+        "pid": "23128",
+        "name": "StartMenuExperienceHost.e"
+    },
+    {
+        "pid": "19128",
+        "name": "Widgets.exe"
+    },
+    {
+        "pid": "24224",
+        "name": "RuntimeBroker.exe"
+    },
+    {
+        "pid": "23688",
+        "name": "RuntimeBroker.exe"
+    },
+    {
+        "pid": "13168",
+        "name": "WidgetService.exe"
+    },
+    {
+        "pid": "21112",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "24040",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "22428",
+        "name": "dllhost.exe"
+    },
+    {
+        "pid": "2824",
+        "name": "ctfmon.exe"
+    },
+    {
+        "pid": "20780",
+        "name": "MoNotificationUx.exe"
+    },
+    {
+        "pid": "20556",
+        "name": "SecurityHealthSystray.exe"
+    },
+    {
+        "pid": "20132",
+        "name": "OneDrive.exe"
+    },
+    {
+        "pid": "19832",
+        "name": "HiviewService.exe"
+    },
+    {
+        "pid": "16032",
+        "name": "SenaryAudioApp.exe"
+    },
+    {
+        "pid": "22140",
+        "name": "TextInputHost.exe"
+    },
+    {
+        "pid": "13600",
+        "name": "FileWatcher.exe"
+    },
+    {
+        "pid": "8680",
+        "name": "RuntimeBroker.exe"
+    },
+    {
+        "pid": "16140",
+        "name": "FileWatcher.exe"
+    },
+    {
+        "pid": "15140",
+        "name": "RuntimeBroker.exe"
+    },
+    {
+        "pid": "4828",
+        "name": "ms-teams.exe"
+    },
+    {
+        "pid": "5628",
+        "name": "RuntimeBroker.exe"
+    },
+    {
+        "pid": "6396",
+        "name": "msedgewebview2.exe"
+    },
+    {
+        "pid": "14464",
+        "name": "msedgewebview2.exe"
+    },
+    {
+        "pid": "15328",
+        "name": "CCXProcess.exe"
+    },
+    {
+        "pid": "15612",
+        "name": "node.exe"
+    },
+    {
+        "pid": "18040",
+        "name": "conhost.exe"
+    },
+    {
+        "pid": "2892",
+        "name": "msedgewebview2.exe"
+    },
+    {
+        "pid": "16036",
+        "name": "msedgewebview2.exe"
+    },
+    {
+        "pid": "22240",
+        "name": "msedgewebview2.exe"
+    },
+    {
+        "pid": "19304",
+        "name": "msedgewebview2.exe"
+    },
+    {
+        "pid": "23624",
+        "name": "AdobeIPCBroker.exe"
+    },
+    {
+        "pid": "22124",
+        "name": "dllhost.exe"
+    },
+    {
+        "pid": "17376",
+        "name": "SDXHelper.exe"
+    },
+    {
+        "pid": "21896",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "10328",
+        "name": "msedgewebview2.exe"
+    },
+    {
+        "pid": "23488",
+        "name": "msedgewebview2.exe"
+    },
+    {
+        "pid": "23860",
+        "name": "msedgewebview2.exe"
+    },
+    {
+        "pid": "7996",
+        "name": "msedgewebview2.exe"
+    },
+    {
+        "pid": "21080",
+        "name": "msedgewebview2.exe"
+    },
+    {
+        "pid": "18180",
+        "name": "msedgewebview2.exe"
+    },
+    {
+        "pid": "740",
+        "name": "PhoneExperienceHost.exe"
+    },
+    {
+        "pid": "14932",
+        "name": "ApplicationFrameHost.exe"
+    },
+    {
+        "pid": "18372",
+        "name": "SystemSettings.exe"
+    },
+    {
+        "pid": "11100",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "9212",
+        "name": "UserOOBEBroker.exe"
+    },
+    {
+        "pid": "22848",
+        "name": "ShellExperienceHost.exe"
+    },
+    {
+        "pid": "22652",
+        "name": "RuntimeBroker.exe"
+    },
+    {
+        "pid": "21372",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "20320",
+        "name": "Code.exe"
+    },
+    {
+        "pid": "15412",
+        "name": "Code.exe"
+    },
+    {
+        "pid": "11116",
+        "name": "Code.exe"
+    },
+    {
+        "pid": "2256",
+        "name": "Code.exe"
+    },
+    {
+        "pid": "15016",
+        "name": "Code.exe"
+    },
+    {
+        "pid": "3504",
+        "name": "Code.exe"
+    },
+    {
+        "pid": "4048",
+        "name": "Code.exe"
+    },
+    {
+        "pid": "22404",
+        "name": "FileCoAuth.exe"
+    },
+    {
+        "pid": "13236",
+        "name": "Code.exe"
+    },
+    {
+        "pid": "7468",
+        "name": "Code.exe"
+    },
+    {
+        "pid": "23548",
+        "name": "conhost.exe"
+    },
+    {
+        "pid": "2864",
+        "name": "bash.exe"
+    },
+    {
+        "pid": "23440",
+        "name": "bash.exe"
+    },
+    {
+        "pid": "14344",
+        "name": "python.exe"
+    },
+    {
+        "pid": "21384",
+        "name": "conhost.exe"
+    },
+    {
+        "pid": "5912",
+        "name": "python.exe"
+    },
+    {
+        "pid": "15880",
+        "name": "conhost.exe"
+    },
+    {
+        "pid": "19872",
+        "name": "python.exe"
+    },
+    {
+        "pid": "604",
+        "name": "conhost.exe"
+    },
+    {
+        "pid": "6796",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "7896",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "11536",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "8200",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "15764",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "17852",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "15480",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "10196",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "9192",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "9992",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "16052",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "13352",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "5540",
+        "name": "RuntimeBroker.exe"
+    },
+    {
+        "pid": "21548",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "6748",
+        "name": "LockApp.exe"
+    },
+    {
+        "pid": "15532",
+        "name": "RuntimeBroker.exe"
+    },
+    {
+        "pid": "7832",
+        "name": "Code.exe"
+    },
+    {
+        "pid": "15544",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "12744",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "21236",
+        "name": "conhost.exe"
+    },
+    {
+        "pid": "20428",
+        "name": "bash.exe"
+    },
+    {
+        "pid": "10492",
+        "name": "python.exe"
+    },
+    {
+        "pid": "7204",
+        "name": "Code.exe"
+    },
+    {
+        "pid": "14888",
+        "name": "dllhost.exe"
+    },
+    {
+        "pid": "22888",
+        "name": "Video.UI.exe"
+    },
+    {
+        "pid": "14844",
+        "name": "RuntimeBroker.exe"
+    },
+    {
+        "pid": "11900",
+        "name": "CodeSetup-stable-ddc367ed"
+    },
+    {
+        "pid": "20920",
+        "name": "CodeSetup-stable-ddc367ed"
+    },
+    {
+        "pid": "14800",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "2276",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "9308",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "13256",
+        "name": "msedge.exe"
+    },
+    {
+        "pid": "732",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "16656",
+        "name": "RuntimeBroker.exe"
+    },
+    {
+        "pid": "22480",
+        "name": "conhost.exe"
+    },
+    {
+        "pid": "9548",
+        "name": "bash.exe"
+    },
+    {
+        "pid": "23000",
+        "name": "bash.exe"
+    },
+    {
+        "pid": "6656",
+        "name": "svchost.exe"
+    },
+    {
+        "pid": "5480",
+        "name": "RuntimeBroker.exe"
+    },
+    {
+        "pid": "8776",
+        "name": "audiodg.exe"
+    },
+    {
+        "pid": "8052",
+        "name": "HWVEAudioSession.exe"
+    },
+    {
+        "pid": "6288",
+        "name": "conhost.exe"
+    },
+    {
+        "pid": "10336",
+        "name": "conhost.exe"
+    },
+    {
+        "pid": "17556",
+        "name": "bash.exe"
+    },
+    {
+        "pid": "23432",
+        "name": "bash.exe"
+    },
+    {
+        "pid": "15060",
+        "name": "bash.exe"
+    },
+    {
+        "pid": "24136",
+        "name": "python.exe"
+    },
+    {
+        "pid": "18416",
+        "name": "conhost.exe"
+    },
+    {
+        "pid": "2068",
+        "name": "bash.exe"
+    },
+    {
+        "pid": "9220",
+        "name": "bash.exe"
+    },
+    {
+        "pid": "17948",
+        "name": "bash.exe"
+    },
+    {
+        "pid": "22728",
+        "name": "python.exe"
+    },
+    {
+        "pid": "14828",
+        "name": "cmd.exe"
+    },
+    {
+        "pid": "24276",
+        "name": "tasklist.exe"
+    },
+    {
+        "pid": "3412",
+        "name": "WmiPrvSE.exe"
+    }
+]
