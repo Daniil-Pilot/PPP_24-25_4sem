@@ -980,6 +980,10 @@
         "name": "firefox.exe"
     },
     {
+        "pid": "19560",
+        "name": "svchost.exe"
+    },
+    {
         "pid": "4704",
         "name": "conhost.exe"
     },
@@ -990,6 +994,14 @@
     {
         "pid": "11732",
         "name": "bash.exe"
+    },
+    {
+        "pid": "6616",
+        "name": "bash.exe"
+    },
+    {
+        "pid": "18124",
+        "name": "python.exe"
     },
     {
         "pid": "2004",
@@ -1020,23 +1032,15 @@
         "name": "python.exe"
     },
     {
-        "pid": "5408",
-        "name": "svchost.exe"
-    },
-    {
-        "pid": "12044",
-        "name": "svchost.exe"
-    },
-    {
-        "pid": "6608",
+        "pid": "3840",
         "name": "cmd.exe"
     },
     {
-        "pid": "8868",
+        "pid": "4272",
         "name": "tasklist.exe"
     },
     {
-        "pid": "6740",
+        "pid": "7520",
         "name": "WmiPrvSE.exe"
     }
 ]

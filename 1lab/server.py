@@ -50,46 +50,44 @@ def save_processes(format='json'):
 
 def handle_client(conn):
     try:
-        while True:
-            data = conn.recv(1024).decode('utf-8')
-            if not data:
-                break  #клиент закрыл соединение
+        data = conn.recv(1024).decode('utf-8')
+        if not data:
+            return
             
-            command = data.split()
-            logger.info(f"Получена команда от клиента: {command}")
-            
-            if command[0] == 'UPDATE':
-                if len(command) > 1 and command[1].upper() == 'XML':
-                    filename = save_processes(format='xml')
-                else:
-                    filename = save_processes(format='json')
-                
-                try:
-                    with open(filename, 'rb') as f:
-                        file_data = f.read()
-                    conn.sendall(file_data)  #отправляем данные клиенту
-                    logger.info(f"Отправлен файл с процессами клиенту: {filename}")
-                except ConnectionError as e:
-                    logger.error(f"Ошибка при отправке данных клиенту: {e}")
-                    break
-            elif command[0] == 'KILL' and len(command) == 3:
-                try:
-                    pid = int(command[1])
-                    sig = int(command[2])
-                    os.kill(pid, sig)
-                    conn.send(b'SUCCESS')
-                    logger.info(f"Отправлен сигнал {sig} процессу {pid}")
-                except Exception as e:
-                    conn.send(str(e).encode('utf-8'))
-                    logger.error(f"Ошибка при отправке сигнала: {e}")
+        command = data.split()
+        logger.info(f"Получена команда от клиента: {command}")
+        
+        if command[0] == 'UPDATE':
+            if len(command) > 1 and command[1].upper() == 'XML':
+                filename = save_processes(format='xml')
             else:
-                conn.send(b'INVALID COMMAND')
-                logger.warning(f"Неизвестная команда: {command}")
+                filename = save_processes(format='json')
+            
+            try:
+                with open(filename, 'rb') as f:
+                    file_data = f.read()
+                conn.sendall(file_data)
+                logger.info(f"Отправлен файл клиенту: {filename}")
+            except ConnectionError as e:
+                logger.error(f"Ошибка отправки данных: {e}")
+        elif command[0] == 'KILL' and len(command) == 3:
+            try:
+                pid = int(command[1])
+                sig = int(command[2])
+                os.kill(pid, sig)
+                conn.send(b'SUCCESS')
+                logger.info(f"Сигнал {sig} процессу {pid}")
+            except Exception as e:
+                conn.send(str(e).encode('utf-8'))
+                logger.error(f"Ошибка сигнала: {e}")
+        else:
+            conn.send(b'INVALID COMMAND')
+            logger.warning(f"Неизвестная команда: {command}")
     except Exception as e:
-        logger.error(f"Ошибка при обработке клиента: {e}")
+        logger.error(f"Ошибка обработки клиента: {e}")
     finally:
         conn.close()
-        logger.info("Соединение с клиентом закрыто")
+        logger.info("Соединение закрыто")
 
 def start_server(host='0.0.0.0', port=12345):
     server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
