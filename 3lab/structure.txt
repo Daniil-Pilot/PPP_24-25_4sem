@@ -1,0 +1,26 @@
+project/
+├── app/
+│   ├── api/
+│   │   └── router.py
+│   ├── core/
+│   │   └── config.py
+│   ├── db/
+│   │   └── session.py
+│   ├── models/
+│   │   └── user.py
+│   ├── cruds/
+│   │   └── user.py
+│   ├── schemas/
+│   │   └── user.py
+│   ├── services/
+│   │   └── fuzzy_search.py
+│   ├── celery/
+│   │   ├── worker.py
+│   │   └── tasks.py
+│   └── websocket/
+│       └── manager.py
+│       └── endpoint.py
+├── main.py
+├── client.py
+├── requirements.txt
+├── .env
